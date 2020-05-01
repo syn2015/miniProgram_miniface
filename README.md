@@ -1,4 +1,3 @@
-# miniProgram_miniface
-颜值评分
-#![miniFace](miniFace.png)
+# miniProgram_miniface 扫码体验
+
 <img src="miniFace.png" width="200px">
